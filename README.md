@@ -1,5 +1,8 @@
 # somalilandcovid19.github.io
 this is my new url
+
+https://raw.githubusercontent.com/Badraawi143/somalilandcovid19.github.io/master/somaliland.json
+
 {
   "Somaliland": [
     {
